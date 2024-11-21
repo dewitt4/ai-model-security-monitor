@@ -1,6 +1,8 @@
 # ai-model-security-monitor
 Security monitoring tool that helps protect AI models from common attacks. 
 
+Author: DeWitt Gibson https://www.linkedin.com/in/dewitt-gibson/
+
 The tool provides these key security features:
 
 ## Input validation:
