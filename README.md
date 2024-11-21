@@ -29,3 +29,5 @@ Validation results
 Detected issues
 Request analysis
 Security recommendations
+
+## Security Team Alerting
